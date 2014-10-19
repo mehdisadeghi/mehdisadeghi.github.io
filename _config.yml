@@ -1,0 +1,11 @@
+name: "Mehdi Sadeghi | Homepage"
+description: "Personal website of Mehdi Sadeghi. A doorway to my professional life."
+
+url: "mehdi-sadeghi.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+timezone: DE
