@@ -7,5 +7,5 @@ paginate: 10
 
 markdown: rdiscount
 permalink: pretty
-pygments: true
+highlighter: true
 timezone: DE
