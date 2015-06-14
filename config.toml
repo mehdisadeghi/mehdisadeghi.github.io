@@ -1,0 +1,12 @@
+baseURL = "http://mehdisadeghi.me/"
+languageCode = "en-us"
+title = "Mehdi Sadeghi"
+theme = "hugo-uno"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Thoughs of a Digital Citizen"
+  author = "Mehdi Sadeghi"
