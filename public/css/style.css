@@ -1,0 +1,19 @@
+/* Personalizations */
+.masthead-title a:hover{
+  transition-duration: 300ms;
+  color: goldenrod;
+  text-decoration: none;
+}
+
+#cc{
+  position: absolute;
+  bottom: 0px;
+}
+
+a{
+  color: #C31515;
+}
+
+a:hover{
+  text-decoration: none;
+}

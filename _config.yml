@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Mehdi Sadeghi
+tagline:             'Thoughts of a digital citizen'
+description:         'A developer, interested in science, culture, open society, chess and cosmology.'
+url:                 http://mehdisadeghi.me
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Mehdi Sadeghi
+  url:               https://twitter.com/mehdisadeghii
+  email:             hi@mehdisadeghi.me
+
+# Custom vars
+version:             1.0.0
