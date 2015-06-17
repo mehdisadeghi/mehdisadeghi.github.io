@@ -1,6 +1,7 @@
 /* Personalizations */
 .masthead-title a:hover{
-  transition-duration: 300ms;
+  transition-duration: 350ms;
+  transition-delay: 50ms;
   color: goldenrod;
   text-decoration: none;
 }
