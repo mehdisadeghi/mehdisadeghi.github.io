@@ -1,14 +1,14 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:          :title.html
 relative_permalinks: true
 
 # Setup
 title:               Mehdi Sadeghi
 tagline:             'Thoughts of a digital citizen'
 description:         'A developer, interested in science, culture, open society, chess and cosmology.'
-url:                 http://mehdisadeghi.me
+url:                 'http://mehdisadeghi.me'
 baseurl:             ''
 paginate:            5
 
