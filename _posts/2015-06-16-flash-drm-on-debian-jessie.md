@@ -1,4 +1,5 @@
 ---
+layout: post
 tags: debian, hal, flash, drm, amazon
 title: Watch DRM-Protected Content on Debian Jessie
 ---
