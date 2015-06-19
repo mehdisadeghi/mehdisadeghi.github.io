@@ -7,7 +7,11 @@ title: Home
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
+      {% if site.baseurl != '' %}
       <a href="{{ site.baseurl }}/{{ post.url }}">
+      {% else %}
+      <a href="{{ post.url }}">
+      {% endif %}
         {{ post.title }}
       </a>
     </h1>
@@ -35,4 +39,3 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
