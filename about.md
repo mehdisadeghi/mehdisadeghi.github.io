@@ -7,7 +7,7 @@ title: About
   If you look for my Persian writings please head to my <a href="http://mehdix.ir"> other website</a>.
 </p>
 
-I'm an Iranian expat leaving currently in Germany. I'm interested in
+I'm an Iranian expat living currently in Germany. I'm interested in
 science, software, entrepreneurship, minimalism, space, chess and a whole
 bunch of other things.
 
