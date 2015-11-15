@@ -4,6 +4,10 @@ tags: debian, hal, flash, drm, amazon
 title: Watch DRM-Protected Content on Debian Jessie
 ---
 
+<blockquote>
+Update - 15.11.15. This method does not work anymore. However it is possible to play amazon videos using Google Chrome browser, which has  Widevine Content Decryption Module plugin installed by default.
+</blockquote>
+
 I have recently installed Debian 8.0 (codenamed Jessie) and like many other distros I have to gradually fix problems that I came across. Here is how I managed to watch Amazon's prime videos using Iceweasel.
 
 
